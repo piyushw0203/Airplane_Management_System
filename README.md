@@ -39,10 +39,6 @@ The Airline Reservation Management System is a Java-based application designed t
 - Users can navigate through the different functionalities using the menu bar or buttons provided in the GUI.
 - Login with the provided credentials (username: admin, password: 12345) to access the management features.
 
-## Contributors
-
-- [Mahesh Sathe](https://github.com/maheshsathe07)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
